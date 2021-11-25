@@ -1,0 +1,4 @@
+<view>
+sss
+<include src="../templates/header.wxml"></include>
+</view>
